@@ -1,7 +1,3 @@
-library(devtools)  # Required for installing GitHub packages
-# devtools::install_github("MathiasHarrer/dmetar") 
-
-library(dmetar)    # Meta-analysis package
 library(dplyr)     # Data manipulation
 library(readr)     # Better CSV reading
 library(meta)      # Meta-analysis computations
