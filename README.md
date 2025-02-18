@@ -13,7 +13,7 @@ This repository contains data, R code, and results related to a meta-analysis st
 
 ## Meta-analysis Process
 
-The meta-analysis was conducted using the `dmetar` and `metafor` packages in R. The steps involved:
+The meta-analysis was conducted using the `meta` package in R. The steps involved:
 
 1. **Loading Data**: The dataset includes multiple studies with performance metrics related to VRP optimization.
 2. **Data Processing**: Converting necessary columns into factors and calculating improvement percentages.
