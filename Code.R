@@ -55,7 +55,7 @@ Studies <- Studies %>%
 m.gen_spsc <- metagen(
   TE = Ak, seTE = sqrt(Vk), studlab = Sk,
   data = Studies, sm = "SMD", fixed = FALSE,
-  random = TRUE, method.tau = "DL", hakn = TRUE,
+  random = TRUE, method.tau = "DL",
   title = "SP/SC"
 )
 
