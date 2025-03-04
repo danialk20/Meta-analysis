@@ -1,4 +1,4 @@
-Article_ID,Instance_ID,Objective,Iterations,Without_SPSC,Time,With_SPSC,Time
+Article_ID,Instance_ID,Objective,Iterations,Without_SPSC,Time,With_SPSC,Time_
 Malheiros2021,a3-30hetARX,MIN,10,494.85,0.13,494.85,1.18
 Malheiros2021,a3-36hetARX,MIN,10,583.23,0.38,583.19,1.74
 Malheiros2021,a4-40hetARX,MIN,10,558.40,0.55,557.69,2.19
