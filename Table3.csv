@@ -1,28 +1,28 @@
-﻿Attributes;Method;Iterative_Postopt;Component;Article_ID
-Intermediate stops;Constructive~ILS;postoptimizer;SC;Accorsi2020
-Intermediate stops;Constructive;postoptimizer;SP;Cabrera2022
-Capacitated;Constructive~Other LS;iterative;SP;Groer2010
-TW~MD~Time dependent~Scheduling;ALNS;iterative;SP;Grenouilleau2019
-Cross-docking;ALNS;postoptimizer;SP;Gunawan2021
-Capacitated;Constructive~Tabu search;postoptimizer;SP;Kelly1999_SAV
-Capacitated;Constructive~Tabu search;postoptimizer;SP;Kelly1999_XK
-Dial a ride~HF~MD;ILS;postoptimizer;SP;Malheiros2021
-Dial a ride~HF~MD;ILS;postoptimizer;SP;Malheiros2021_MD
-TW~Time dependent;Constructive;postoptimizer;SP;Mancini2017
-TW~Time dependent;Constructive;postoptimizer;SP;Mancini2017_RED
-Stochastic;Constructive;postoptimizer;SP;Mendoza2013
-Stochastic;Constructive;postoptimizer;SP;Mendoza2016
-TW~Scheduling;ALNS~Constructive;postoptimizer;SC;Pillac2013
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_4D10
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_4D15
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_4D5
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D10
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D15
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D5
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D6
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D7
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D8
-Periodic~TW;VNS and variants;iterative;SC;Pirkwieser2009_6D9
-Capacitated;Tabu search~Other LS;postoptimizer;SP;Rochat1995
-TW;Scatter search~Tabu search;postoptimizer;SC;Russell2006
-Intermediate stops;GRASP~ILS;postoptimizer;SP;Villegas2013
+Attributes	Method	Algorithm_Type	Iterative_Postopt	Component	Article_ID
+Intermediate stops	Constructive~ILS	Local search	postoptimizer	SC	Accorsi2020
+Intermediate stops	Constructive	Constructive	postoptimizer	SP	Cabrera2022
+Capacitated	Constructive~Other LS	Local search	iterative	SP	Groer2010
+TW~MD~Time dependent~Scheduling	ALNS	Local search	iterative	SP	Grenouilleau2019
+Cross-docking	ALNS	Local search	postoptimizer	SP	Gunawan2021
+Capacitated	Constructive~Tabu search	Constructive	postoptimizer	SP	Kelly1999_SAV
+Capacitated	Constructive~Tabu search	Local search	postoptimizer	SP	Kelly1999_XK
+Dial a ride~HF~MD	ILS	Local search	postoptimizer	SP	Malheiros2021
+Dial a ride~HF~MD	ILS	Local search	postoptimizer	SP	Malheiros2021_MD
+TW~Time dependent	Constructive	Constructive	postoptimizer	SP	Mancini2017
+TW~Time dependent	Constructive	Constructive	postoptimizer	SP	Mancini2017_RED
+Stochastic	Constructive	Constructive	postoptimizer	SP	Mendoza2013
+Stochastic	Constructive	Constructive	postoptimizer	SP	Mendoza2016
+TW~Scheduling	ALNS~Constructive	Local search	postoptimizer	SC	Pillac2013
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_4D10
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_4D15
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_4D5
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D10
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D15
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D5
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D6
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D7
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D8
+Periodic~TW	VNS and variants	Local search	iterative	SC	Pirkwieser2009_6D9
+Capacitated	Tabu search~Other LS	Local search	postoptimizer	SP	Rochat1995
+TW	Scatter search~Tabu search	Population-based	postoptimizer	SC	Russell2006
+Intermediate stops	GRASP~ILS	Local search	postoptimizer	SP	Villegas2013
