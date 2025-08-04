@@ -10,6 +10,7 @@ This repository contains data, R code, and results related to a meta-analysis st
 - **Data.xlsx**: The dataset in Excel format.
 - **Code.R**: R script used for performing the meta-analysis.
 - **Plots/**: Contains the generated forest and funnel plots.
+- **Table3.csv**: A dataset of additional characteristics of the implementations.
 
 ## Meta-analysis Process
 
@@ -33,6 +34,7 @@ This meta-analysis aims to quantify the effectiveness of incorporating set parti
 
 - **Forest Plot**: Displays effect sizes and confidence intervals for each study.
 - **Funnel Plot**: Assesses potential publication bias.
+- **Subgroup analysis**: Analyzes the effect based on the component used, the attributes of the implementations and the solution method.
 
 ## Usage
 
